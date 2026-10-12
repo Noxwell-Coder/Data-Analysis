@@ -1,0 +1,22 @@
+# Virtual Environments
+ml-env/
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# System Files and IDEs
+.DS_Store
+.vscode/
+.idea/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Logs and Temporary Files
+*.log
+*.tmp
